@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/@sujal50822932" target="blank"><img src="https://img.shields.io/twitter/follow/@sujal50822932?logo=twitter&style=for-the-badge" alt="@sujal50822932" /></a> </p>
 
+- 🔭 I’m currently working on **my Programming skills**
+
+- 🌱 I’m currently learning **Web Devlopment and other coding languages**
+
 - 📫 How to reach me **sujalbhimapoojari360@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -22,4 +26,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujal666&show_icons=true&locale=en" alt="sujal666" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal666&" alt="sujal666" /></p>
