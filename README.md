@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SUJAL POOJARI</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
-<img align="right alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2IAlY8IeMaNv7_bZbIFGvi&ust=1690354902983000&source=images&cd=vfe&opi=89978449&ved=0CA0QjRxqFwoTCLi19_CkqYADFQAAAAAdAAAAABAQ"
+<img align="right alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas?utm_source=Clipboard_Shot&utm_campaign=kunchevsky&utm_content=Programmer%20Thomas&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=kunchevsky&utm_content=Programmer%20Thomas&utm_medium=Social_Share"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal666&label=Profile%20views&color=0e75b6&style=flat" alt="sujal666" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujal666" alt="sujal666" /></a> </p>
