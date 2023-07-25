@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm SUJAL POOJARI</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
-<img align="right alt="Coding" width="400" src="[https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img align="right alt="Coding" width="400" src="![image](https://github.com/sujal666/sujal666/assets/84837114/eb0d05d9-cec2-4bdb-9dc4-7de130a78bf3)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal666&label=Profile%20views&color=0e75b6&style=flat" alt="sujal666" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujal666" alt="sujal666" /></a> </p>
